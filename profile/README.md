@@ -121,8 +121,8 @@ Nuestras soluciones están diseñadas siguiendo:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-electricautomaticchile@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:electricautomaticchile@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ElectricAutomatic-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/electricautomaticchile)
-[![Website](https://img.shields.io/badge/Website-electricautomaticchile.cl-orange?style=for-the-badge&logo=firefox)](https://electricautomaticchile.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Electricautomaticchile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/electricautomatichile)
+[![Website](https://img.shields.io/badge/Website-electricautomaticchile.com-orange?style=for-the-badge&logo=firefox)](https://electricautomaticchile.com)
 
 </div>
 
