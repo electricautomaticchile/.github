@@ -140,15 +140,6 @@ Chile
 - ⭐ **Certificación AWS Partner** - Advanced Technology Partner
 - 🔒 **ISO 27001:2022** - Gestión de Seguridad de la Información
 
-## 📊 Estadísticas de la Organización
-
-<div align="center">
-
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=electricautomaticchile&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=electricautomaticchile&layout=compact&theme=radical)
-
-</div>
 
 ---
 
